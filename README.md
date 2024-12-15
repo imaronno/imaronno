@@ -1,27 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aronno Sarker!</h1>
 <h3 align="center">A Web Developer From Bangladesh!</h3>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
-
+<div class="tenor-gif-embed" data-postid="922906369727670801" data-share-method="host" data-aspect-ratio="0.871486" data-width="100%"><a href="https://tenor.com/view/cat-underwater-gif-922906369727670801">Cat Underwater GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <p align="left"> <a href="https://twitter.com/aronnosarker_" target="blank"><img src="https://img.shields.io/twitter/follow/aronnosarker_?logo=twitter&style=for-the-badge" alt="aronnosarker_" /></a> </p>
