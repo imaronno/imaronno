@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
 
+![cat-underwater](https://github.com/user-attachments/assets/2bc63c3b-003b-4ba9-825c-f7da56832c76)
 
 
 
