@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
-<div class="tenor-gif-embed" data-postid="922906369727670801" data-share-method="host" data-aspect-ratio="0.871486" data-width="100%"><a href="https://tenor.com/view/cat-underwater-gif-922906369727670801">Cat Underwater GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <p align="left"> <a href="https://twitter.com/aronnosarker_" target="blank"><img src="https://img.shields.io/twitter/follow/aronnosarker_?logo=twitter&style=for-the-badge" alt="aronnosarker_" /></a> </p>
