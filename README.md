@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
 
-<div align="center">![cat-underwater-wide (1)](https://github.com/user-attachments/assets/24df4ec1-2d82-4966-b4e3-a1b7eb5b4736)</div>
+![cat-underwater-wide (1)](https://github.com/user-attachments/assets/24df4ec1-2d82-4966-b4e3-a1b7eb5b4736)
+
 
 
 <p align="left"> <a href="https://twitter.com/aronnosarker_" target="blank"><img src="https://img.shields.io/twitter/follow/aronnosarker_?logo=twitter&style=for-the-badge" alt="aronnosarker_" /></a> </p>
