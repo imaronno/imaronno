@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aronno Sarker!</h1>
 <h3 align="center">A Web Developer From Bangladesh!</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
 
-![cat-underwater-wide (1)](https://github.com/user-attachments/assets/24df4ec1-2d82-4966-b4e3-a1b7eb5b4736)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaronno" alt="imaronno" /></a> </p>
+
+ ![cat-underwater-wide (1)](https://github.com/user-attachments/assets/24df4ec1-2d82-4966-b4e3-a1b7eb5b4736)
 
 ![text](https://github.com/user-attachments/assets/c33dad3b-ff84-4774-86a3-316b801ea94d)
-
 
 <p align="left"> <a href="https://twitter.com/aronnosarker_" target="blank"><img src="https://img.shields.io/twitter/follow/aronnosarker_?logo=twitter&style=for-the-badge" alt="aronnosarker_" /></a> </p>
 
@@ -23,6 +26,8 @@
 - 💬 Ask me about **Html5,Css3,Html,Css**
 
 - 📫 How to reach me **aronnosarker089@gmail.com**
+
+- 📄 Know about my experiences [https://resume-aronno.netlify.app/](https://resume-aronno.netlify.app/)
 
 - ⚡ Fun fact **I Am 10 Years Old!**
 
