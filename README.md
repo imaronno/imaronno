@@ -15,19 +15,17 @@
 
 - 🔭 I’m currently working on [Javascript](https://github.com/imaronno/introduction-to-javascript)
 
-- 🌱 I’m currently learning **Web Development**
-
-- 👯 I’m looking to collaborate on **React**
+- 🌱 I’m currently learning **Javascript**
 
 - 🤝 I’m looking for help with **Javascript**
 
 - 👨‍💻 All of my projects are available at [aronnosarker.netlify.app](aronnosarker.netlify.app)
 
-- 💬 Ask me about **Html5,Css3,Html,Css**
+- 💬 Ask me about **Html5,Css3,Bootstrap,Tailwind CSS, Github, Javascript**
 
-- 📫 How to reach me **aronnosarker089@gmail.com**
+- 📫 Reach me At **aronnosarker089@gmail.com**
 
-- 📄 Know about my experiences [https://resume-aronno.netlify.app/](https://resume-aronno.netlify.app/)
+- 📄 Know about my experiences [Resume](https://resume-aronno.netlify.app/)
 
 - ⚡ Fun fact **I Am 10 Years Old!**
 
