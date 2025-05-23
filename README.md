@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aronno Sarker!</h1>
 <h3 align="center">A Web Developer From Bangladesh!</h3>
 
-
+<img src="Black and Beige Modern Handwriting Professional Business LinkedIn Banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaronno" alt="imaronno" /></a> </p>
 
-<img src="Black and Beige Modern Handwriting Professional Business LinkedIn Banner.png">
-
-![text](https://github.com/user-attachments/assets/c33dad3b-ff84-4774-86a3-316b801ea94d)
-
 <p align="left"> <a href="https://twitter.com/aronnosarker_" target="blank"><img src="https://img.shields.io/twitter/follow/aronnosarker_?logo=twitter&style=for-the-badge" alt="aronnosarker_" /></a> </p>
 
 - 🔭 I’m currently working on [Javascript](https://github.com/imaronno/introduction-to-javascript)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Web Development**
+
+- 👯 I’m looking to collaborate on [T-Lover](tlover.netlify.app)
 
 - 🤝 I’m looking for help with **Javascript**
 
 - 👨‍💻 All of my projects are available at [aronnosarker.netlify.app](aronnosarker.netlify.app)
 
-- 💬 Ask me about **Html5,Css3,Bootstrap,Tailwind CSS, Github, Javascript**
+- 💬 Ask me about **Html5,Css3,Bootstrap,TailwindCss,Github**
 
-- 📫 Reach me At **aronnosarker089@gmail.com**
+- 📫 How to reach me **aronnosarker089@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://resume-aronno.netlify.app/)
+- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=12IdLj8uvEsfBZwCD-QjTdlQ1jPgb2Jvw](https://drive.google.com/uc?export=download&id=12IdLj8uvEsfBZwCD-QjTdlQ1jPgb2Jvw)
 
 - ⚡ Fun fact **I Am 10 Years Old!**
 
@@ -33,6 +31,9 @@
 <p align="left">
 <a href="https://twitter.com/aronnosarker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aronnosarker_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imaronno50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imaronno50" height="30" width="40" /></a>
+<a href="https://fb.com/rinasarker199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rinasarker199" height="30" width="40" /></a>
+<a href="https://instagram.com/rinasarker611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinasarker611" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/imaronno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imaronno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
