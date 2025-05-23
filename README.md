@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaronno" alt="imaronno" /></a> </p>
 
- ![cat-underwater-wide (1)](https://github.com/user-attachments/assets/24df4ec1-2d82-4966-b4e3-a1b7eb5b4736)
+<img src="Black and Beige Modern Handwriting Professional Business LinkedIn Banner.png">
 
 ![text](https://github.com/user-attachments/assets/c33dad3b-ff84-4774-86a3-316b801ea94d)
 
