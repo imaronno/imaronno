@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=12IdLj8uvEsfBZwCD-QjTdlQ1jPgb2Jvw](https://drive.google.com/uc?export=download&id=12IdLj8uvEsfBZwCD-QjTdlQ1jPgb2Jvw)
 
-- ⚡ Fun fact **I Am 10 Years Old!**
+- ⚡ Fun fact **I Am 13 Years Old!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
