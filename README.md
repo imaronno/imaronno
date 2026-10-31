@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aronno</h1>
 <h3 align="center">A passionate frontend and WordPress developer from Bangladesdh</h3>
 
+<img src="https://github.com/imaronno/imaronno/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png?raw=true"><img/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaronno&label=Profile%20views&color=0e75b6&style=flat" alt="imaronno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaronno" alt="imaronno" /></a> </p>
